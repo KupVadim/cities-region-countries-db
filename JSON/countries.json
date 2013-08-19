@@ -1,1948 +1,1948 @@
 {
     "countries": [
         {
+            "countrycode": "AD", 
+            "population": "84000", 
             "name": "Andorra", 
             "id": 1, 
-            "countrycode": "AD", 
-            "continent": "EU", 
-            "population": "84000", 
-            "currencycode": "EUR"
+            "currencycode": "EUR", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "AE", 
+            "population": "4975593", 
             "name": "United Arab Emirates", 
             "id": 2, 
-            "countrycode": "AE", 
-            "continent": "AS", 
-            "population": "4975593", 
-            "currencycode": "AED"
+            "currencycode": "AED", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "AF", 
+            "population": "29121286", 
             "name": "Afghanistan", 
             "id": 3, 
-            "countrycode": "AF", 
-            "continent": "AS", 
-            "population": "29121286", 
-            "currencycode": "AFN"
+            "currencycode": "AFN", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "AG", 
+            "population": "86754", 
             "name": "Antigua and Barbuda", 
             "id": 4, 
-            "countrycode": "AG", 
-            "continent": "NA", 
-            "population": "86754", 
-            "currencycode": "XCD"
+            "currencycode": "XCD", 
+            "continent": "NA"
         }, 
         {
+            "countrycode": "AI", 
+            "population": "13254", 
             "name": "Anguilla", 
             "id": 5, 
-            "countrycode": "AI", 
-            "continent": "NA", 
-            "population": "13254", 
-            "currencycode": "XCD"
+            "currencycode": "XCD", 
+            "continent": "NA"
         }, 
         {
+            "countrycode": "AL", 
+            "population": "2986952", 
             "name": "Albania", 
             "id": 6, 
-            "countrycode": "AL", 
-            "continent": "EU", 
-            "population": "2986952", 
-            "currencycode": "ALL"
+            "currencycode": "ALL", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "AM", 
+            "population": "2968000", 
             "name": "Armenia", 
             "id": 7, 
-            "countrycode": "AM", 
-            "continent": "AS", 
-            "population": "2968000", 
-            "currencycode": "AMD"
+            "currencycode": "AMD", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "AO", 
+            "population": "13068161", 
             "name": "Angola", 
             "id": 8, 
-            "countrycode": "AO", 
-            "continent": "AF", 
-            "population": "13068161", 
-            "currencycode": "AOA"
+            "currencycode": "AOA", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "AR", 
+            "population": "41343201", 
             "name": "Argentina", 
             "id": 9, 
-            "countrycode": "AR", 
-            "continent": "SA", 
-            "population": "41343201", 
-            "currencycode": "ARS"
+            "currencycode": "ARS", 
+            "continent": "SA"
         }, 
         {
+            "countrycode": "AS", 
+            "population": "57881", 
             "name": "American Samoa", 
             "id": 10, 
-            "countrycode": "AS", 
-            "continent": "OC", 
-            "population": "57881", 
-            "currencycode": "USD"
+            "currencycode": "USD", 
+            "continent": "OC"
         }, 
         {
+            "countrycode": "AT", 
+            "population": "8205000", 
             "name": "Austria", 
             "id": 11, 
-            "countrycode": "AT", 
-            "continent": "EU", 
-            "population": "8205000", 
-            "currencycode": "EUR"
+            "currencycode": "EUR", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "AU", 
+            "population": "21515754", 
             "name": "Australia", 
             "id": 12, 
-            "countrycode": "AU", 
-            "continent": "OC", 
-            "population": "21515754", 
-            "currencycode": "AUD"
+            "currencycode": "AUD", 
+            "continent": "OC"
         }, 
         {
+            "countrycode": "AW", 
+            "population": "71566", 
             "name": "Aruba", 
             "id": 13, 
-            "countrycode": "AW", 
-            "continent": "NA", 
-            "population": "71566", 
-            "currencycode": "AWG"
+            "currencycode": "AWG", 
+            "continent": "NA"
         }, 
         {
+            "countrycode": "AX", 
+            "population": "26711", 
             "name": "Aland Islands", 
             "id": 14, 
-            "countrycode": "AX", 
-            "continent": "EU", 
-            "population": "26711", 
-            "currencycode": "EUR"
+            "currencycode": "EUR", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "AZ", 
+            "population": "8303512", 
             "name": "Azerbaijan", 
             "id": 15, 
-            "countrycode": "AZ", 
-            "continent": "AS", 
-            "population": "8303512", 
-            "currencycode": "AZN"
+            "currencycode": "AZN", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "BA", 
+            "population": "4590000", 
             "name": "Bosnia and Herzegovina", 
             "id": 16, 
-            "countrycode": "BA", 
-            "continent": "EU", 
-            "population": "4590000", 
-            "currencycode": "BAM"
+            "currencycode": "BAM", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "BB", 
+            "population": "285653", 
             "name": "Barbados", 
             "id": 17, 
-            "countrycode": "BB", 
-            "continent": "NA", 
-            "population": "285653", 
-            "currencycode": "BBD"
+            "currencycode": "BBD", 
+            "continent": "NA"
         }, 
         {
+            "countrycode": "BD", 
+            "population": "156118464", 
             "name": "Bangladesh", 
             "id": 18, 
-            "countrycode": "BD", 
-            "continent": "AS", 
-            "population": "156118464", 
-            "currencycode": "BDT"
+            "currencycode": "BDT", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "BE", 
+            "population": "10403000", 
             "name": "Belgium", 
             "id": 19, 
-            "countrycode": "BE", 
-            "continent": "EU", 
-            "population": "10403000", 
-            "currencycode": "EUR"
+            "currencycode": "EUR", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "BF", 
+            "population": "16241811", 
             "name": "Burkina Faso", 
             "id": 20, 
-            "countrycode": "BF", 
-            "continent": "AF", 
-            "population": "16241811", 
-            "currencycode": "XOF"
+            "currencycode": "XOF", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "BG", 
+            "population": "7148785", 
             "name": "Bulgaria", 
             "id": 21, 
-            "countrycode": "BG", 
-            "continent": "EU", 
-            "population": "7148785", 
-            "currencycode": "BGN"
+            "currencycode": "BGN", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "BH", 
+            "population": "738004", 
             "name": "Bahrain", 
             "id": 22, 
-            "countrycode": "BH", 
-            "continent": "AS", 
-            "population": "738004", 
-            "currencycode": "BHD"
+            "currencycode": "BHD", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "BI", 
+            "population": "9863117", 
             "name": "Burundi", 
             "id": 23, 
-            "countrycode": "BI", 
-            "continent": "AF", 
-            "population": "9863117", 
-            "currencycode": "BIF"
+            "currencycode": "BIF", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "BJ", 
+            "population": "9056010", 
             "name": "Benin", 
             "id": 24, 
-            "countrycode": "BJ", 
-            "continent": "AF", 
-            "population": "9056010", 
-            "currencycode": "XOF"
+            "currencycode": "XOF", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "BL", 
+            "population": "8450", 
             "name": "Saint Barthelemy", 
             "id": 25, 
-            "countrycode": "BL", 
-            "continent": "NA", 
-            "population": "8450", 
-            "currencycode": "EUR"
+            "currencycode": "EUR", 
+            "continent": "NA"
         }, 
         {
+            "countrycode": "BM", 
+            "population": "65365", 
             "name": "Bermuda", 
             "id": 26, 
-            "countrycode": "BM", 
-            "continent": "NA", 
-            "population": "65365", 
-            "currencycode": "BMD"
+            "currencycode": "BMD", 
+            "continent": "NA"
         }, 
         {
+            "countrycode": "BN", 
+            "population": "395027", 
             "name": "Brunei", 
             "id": 27, 
-            "countrycode": "BN", 
-            "continent": "AS", 
-            "population": "395027", 
-            "currencycode": "BND"
+            "currencycode": "BND", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "BO", 
+            "population": "9947418", 
             "name": "Bolivia", 
             "id": 28, 
-            "countrycode": "BO", 
-            "continent": "SA", 
-            "population": "9947418", 
-            "currencycode": "BOB"
+            "currencycode": "BOB", 
+            "continent": "SA"
         }, 
         {
+            "countrycode": "BQ", 
+            "population": "18012", 
             "name": "Bonaire, Saint Eustatius and Saba ", 
             "id": 29, 
-            "countrycode": "BQ", 
-            "continent": "NA", 
-            "population": "18012", 
-            "currencycode": "USD"
+            "currencycode": "USD", 
+            "continent": "NA"
         }, 
         {
+            "countrycode": "BR", 
+            "population": "201103330", 
             "name": "Brazil", 
             "id": 30, 
-            "countrycode": "BR", 
-            "continent": "SA", 
-            "population": "201103330", 
-            "currencycode": "BRL"
+            "currencycode": "BRL", 
+            "continent": "SA"
         }, 
         {
+            "countrycode": "BS", 
+            "population": "301790", 
             "name": "Bahamas", 
             "id": 31, 
-            "countrycode": "BS", 
-            "continent": "NA", 
-            "population": "301790", 
-            "currencycode": "BSD"
+            "currencycode": "BSD", 
+            "continent": "NA"
         }, 
         {
+            "countrycode": "BT", 
+            "population": "699847", 
             "name": "Bhutan", 
             "id": 32, 
-            "countrycode": "BT", 
-            "continent": "AS", 
-            "population": "699847", 
-            "currencycode": "BTN"
+            "currencycode": "BTN", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "BW", 
+            "population": "2029307", 
             "name": "Botswana", 
             "id": 33, 
-            "countrycode": "BW", 
-            "continent": "AF", 
-            "population": "2029307", 
-            "currencycode": "BWP"
+            "currencycode": "BWP", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "BY", 
+            "population": "9685000", 
             "name": "Belarus", 
             "id": 34, 
-            "countrycode": "BY", 
-            "continent": "EU", 
-            "population": "9685000", 
-            "currencycode": "BYR"
+            "currencycode": "BYR", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "BZ", 
+            "population": "314522", 
             "name": "Belize", 
             "id": 35, 
-            "countrycode": "BZ", 
-            "continent": "NA", 
-            "population": "314522", 
-            "currencycode": "BZD"
+            "currencycode": "BZD", 
+            "continent": "NA"
         }, 
         {
+            "countrycode": "CA", 
+            "population": "33679000", 
             "name": "Canada", 
             "id": 36, 
-            "countrycode": "CA", 
-            "continent": "NA", 
-            "population": "33679000", 
-            "currencycode": "CAD"
+            "currencycode": "CAD", 
+            "continent": "NA"
         }, 
         {
+            "countrycode": "CC", 
+            "population": "628", 
             "name": "Cocos Islands", 
             "id": 37, 
-            "countrycode": "CC", 
-            "continent": "AS", 
-            "population": "628", 
-            "currencycode": "AUD"
+            "currencycode": "AUD", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "CD", 
+            "population": "70916439", 
             "name": "Democratic Republic of the Congo", 
             "id": 38, 
-            "countrycode": "CD", 
-            "continent": "AF", 
-            "population": "70916439", 
-            "currencycode": "CDF"
+            "currencycode": "CDF", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "CF", 
+            "population": "4844927", 
             "name": "Central African Republic", 
             "id": 39, 
-            "countrycode": "CF", 
-            "continent": "AF", 
-            "population": "4844927", 
-            "currencycode": "XAF"
+            "currencycode": "XAF", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "CG", 
+            "population": "3039126", 
             "name": "Republic of the Congo", 
             "id": 40, 
-            "countrycode": "CG", 
-            "continent": "AF", 
-            "population": "3039126", 
-            "currencycode": "XAF"
+            "currencycode": "XAF", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "CH", 
+            "population": "7581000", 
             "name": "Switzerland", 
             "id": 41, 
-            "countrycode": "CH", 
-            "continent": "EU", 
-            "population": "7581000", 
-            "currencycode": "CHF"
+            "currencycode": "CHF", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "CI", 
+            "population": "21058798", 
             "name": "Ivory Coast", 
             "id": 42, 
-            "countrycode": "CI", 
-            "continent": "AF", 
-            "population": "21058798", 
-            "currencycode": "XOF"
+            "currencycode": "XOF", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "CK", 
+            "population": "21388", 
             "name": "Cook Islands", 
             "id": 43, 
-            "countrycode": "CK", 
-            "continent": "OC", 
-            "population": "21388", 
-            "currencycode": "NZD"
+            "currencycode": "NZD", 
+            "continent": "OC"
         }, 
         {
+            "countrycode": "CL", 
+            "population": "16746491", 
             "name": "Chile", 
             "id": 44, 
-            "countrycode": "CL", 
-            "continent": "SA", 
-            "population": "16746491", 
-            "currencycode": "CLP"
+            "currencycode": "CLP", 
+            "continent": "SA"
         }, 
         {
+            "countrycode": "CM", 
+            "population": "19294149", 
             "name": "Cameroon", 
             "id": 45, 
-            "countrycode": "CM", 
-            "continent": "AF", 
-            "population": "19294149", 
-            "currencycode": "XAF"
+            "currencycode": "XAF", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "CN", 
+            "population": "1330044000", 
             "name": "China", 
             "id": 46, 
-            "countrycode": "CN", 
-            "continent": "AS", 
-            "population": "1330044000", 
-            "currencycode": "CNY"
+            "currencycode": "CNY", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "CO", 
+            "population": "44205293", 
             "name": "Colombia", 
             "id": 47, 
-            "countrycode": "CO", 
-            "continent": "SA", 
-            "population": "44205293", 
-            "currencycode": "COP"
+            "currencycode": "COP", 
+            "continent": "SA"
         }, 
         {
+            "countrycode": "CR", 
+            "population": "4516220", 
             "name": "Costa Rica", 
             "id": 48, 
-            "countrycode": "CR", 
-            "continent": "NA", 
-            "population": "4516220", 
-            "currencycode": "CRC"
+            "currencycode": "CRC", 
+            "continent": "NA"
         }, 
         {
+            "countrycode": "CU", 
+            "population": "11423000", 
             "name": "Cuba", 
             "id": 49, 
-            "countrycode": "CU", 
-            "continent": "NA", 
-            "population": "11423000", 
-            "currencycode": "CUP"
+            "currencycode": "CUP", 
+            "continent": "NA"
         }, 
         {
+            "countrycode": "CV", 
+            "population": "508659", 
             "name": "Cape Verde", 
             "id": 50, 
-            "countrycode": "CV", 
-            "continent": "AF", 
-            "population": "508659", 
-            "currencycode": "CVE"
+            "currencycode": "CVE", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "CW", 
+            "population": "141766", 
             "name": "Curacao", 
             "id": 51, 
-            "countrycode": "CW", 
-            "continent": "NA", 
-            "population": "141766", 
-            "currencycode": "ANG"
+            "currencycode": "ANG", 
+            "continent": "NA"
         }, 
         {
+            "countrycode": "CX", 
+            "population": "1500", 
             "name": "Christmas Island", 
             "id": 52, 
-            "countrycode": "CX", 
-            "continent": "AS", 
-            "population": "1500", 
-            "currencycode": "AUD"
+            "currencycode": "AUD", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "CY", 
+            "population": "1102677", 
             "name": "Cyprus", 
             "id": 53, 
-            "countrycode": "CY", 
-            "continent": "EU", 
-            "population": "1102677", 
-            "currencycode": "EUR"
+            "currencycode": "EUR", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "CZ", 
+            "population": "10476000", 
             "name": "Czech Republic", 
             "id": 54, 
-            "countrycode": "CZ", 
-            "continent": "EU", 
-            "population": "10476000", 
-            "currencycode": "CZK"
+            "currencycode": "CZK", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "DE", 
+            "population": "81802257", 
             "name": "Germany", 
             "id": 55, 
-            "countrycode": "DE", 
-            "continent": "EU", 
-            "population": "81802257", 
-            "currencycode": "EUR"
+            "currencycode": "EUR", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "DJ", 
+            "population": "740528", 
             "name": "Djibouti", 
             "id": 56, 
-            "countrycode": "DJ", 
-            "continent": "AF", 
-            "population": "740528", 
-            "currencycode": "DJF"
+            "currencycode": "DJF", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "DK", 
+            "population": "5484000", 
             "name": "Denmark", 
             "id": 57, 
-            "countrycode": "DK", 
-            "continent": "EU", 
-            "population": "5484000", 
-            "currencycode": "DKK"
+            "currencycode": "DKK", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "DM", 
+            "population": "72813", 
             "name": "Dominica", 
             "id": 58, 
-            "countrycode": "DM", 
-            "continent": "NA", 
-            "population": "72813", 
-            "currencycode": "XCD"
+            "currencycode": "XCD", 
+            "continent": "NA"
         }, 
         {
+            "countrycode": "DO", 
+            "population": "9823821", 
             "name": "Dominican Republic", 
             "id": 59, 
-            "countrycode": "DO", 
-            "continent": "NA", 
-            "population": "9823821", 
-            "currencycode": "DOP"
+            "currencycode": "DOP", 
+            "continent": "NA"
         }, 
         {
+            "countrycode": "DZ", 
+            "population": "34586184", 
             "name": "Algeria", 
             "id": 60, 
-            "countrycode": "DZ", 
-            "continent": "AF", 
-            "population": "34586184", 
-            "currencycode": "DZD"
+            "currencycode": "DZD", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "EC", 
+            "population": "14790608", 
             "name": "Ecuador", 
             "id": 61, 
-            "countrycode": "EC", 
-            "continent": "SA", 
-            "population": "14790608", 
-            "currencycode": "USD"
+            "currencycode": "USD", 
+            "continent": "SA"
         }, 
         {
+            "countrycode": "EE", 
+            "population": "1291170", 
             "name": "Estonia", 
             "id": 62, 
-            "countrycode": "EE", 
-            "continent": "EU", 
-            "population": "1291170", 
-            "currencycode": "EUR"
+            "currencycode": "EUR", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "EG", 
+            "population": "80471869", 
             "name": "Egypt", 
             "id": 63, 
-            "countrycode": "EG", 
-            "continent": "AF", 
-            "population": "80471869", 
-            "currencycode": "EGP"
+            "currencycode": "EGP", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "EH", 
+            "population": "273008", 
             "name": "Western Sahara", 
             "id": 64, 
-            "countrycode": "EH", 
-            "continent": "AF", 
-            "population": "273008", 
-            "currencycode": "MAD"
+            "currencycode": "MAD", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "ER", 
+            "population": "5792984", 
             "name": "Eritrea", 
             "id": 65, 
-            "countrycode": "ER", 
-            "continent": "AF", 
-            "population": "5792984", 
-            "currencycode": "ERN"
+            "currencycode": "ERN", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "ES", 
+            "population": "46505963", 
             "name": "Spain", 
             "id": 66, 
-            "countrycode": "ES", 
-            "continent": "EU", 
-            "population": "46505963", 
-            "currencycode": "EUR"
+            "currencycode": "EUR", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "ET", 
+            "population": "88013491", 
             "name": "Ethiopia", 
             "id": 67, 
-            "countrycode": "ET", 
-            "continent": "AF", 
-            "population": "88013491", 
-            "currencycode": "ETB"
+            "currencycode": "ETB", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "FI", 
+            "population": "5244000", 
             "name": "Finland", 
             "id": 68, 
-            "countrycode": "FI", 
-            "continent": "EU", 
-            "population": "5244000", 
-            "currencycode": "EUR"
+            "currencycode": "EUR", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "FJ", 
+            "population": "875983", 
             "name": "Fiji", 
             "id": 69, 
-            "countrycode": "FJ", 
-            "continent": "OC", 
-            "population": "875983", 
-            "currencycode": "FJD"
+            "currencycode": "FJD", 
+            "continent": "OC"
         }, 
         {
+            "countrycode": "FK", 
+            "population": "2638", 
             "name": "Falkland Islands", 
             "id": 70, 
-            "countrycode": "FK", 
-            "continent": "SA", 
-            "population": "2638", 
-            "currencycode": "FKP"
+            "currencycode": "FKP", 
+            "continent": "SA"
         }, 
         {
+            "countrycode": "FM", 
+            "population": "107708", 
             "name": "Micronesia", 
             "id": 71, 
-            "countrycode": "FM", 
-            "continent": "OC", 
-            "population": "107708", 
-            "currencycode": "USD"
+            "currencycode": "USD", 
+            "continent": "OC"
         }, 
         {
+            "countrycode": "FO", 
+            "population": "48228", 
             "name": "Faroe Islands", 
             "id": 72, 
-            "countrycode": "FO", 
-            "continent": "EU", 
-            "population": "48228", 
-            "currencycode": "DKK"
+            "currencycode": "DKK", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "FR", 
+            "population": "64768389", 
             "name": "France", 
             "id": 73, 
-            "countrycode": "FR", 
-            "continent": "EU", 
-            "population": "64768389", 
-            "currencycode": "EUR"
+            "currencycode": "EUR", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "GA", 
+            "population": "1545255", 
             "name": "Gabon", 
             "id": 74, 
-            "countrycode": "GA", 
-            "continent": "AF", 
-            "population": "1545255", 
-            "currencycode": "XAF"
+            "currencycode": "XAF", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "GB", 
+            "population": "62348447", 
             "name": "United Kingdom", 
             "id": 75, 
-            "countrycode": "GB", 
-            "continent": "EU", 
-            "population": "62348447", 
-            "currencycode": "GBP"
+            "currencycode": "GBP", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "GD", 
+            "population": "107818", 
             "name": "Grenada", 
             "id": 76, 
-            "countrycode": "GD", 
-            "continent": "NA", 
-            "population": "107818", 
-            "currencycode": "XCD"
+            "currencycode": "XCD", 
+            "continent": "NA"
         }, 
         {
+            "countrycode": "GE", 
+            "population": "4630000", 
             "name": "Georgia", 
             "id": 77, 
-            "countrycode": "GE", 
-            "continent": "AS", 
-            "population": "4630000", 
-            "currencycode": "GEL"
+            "currencycode": "GEL", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "GF", 
+            "population": "195506", 
             "name": "French Guiana", 
             "id": 78, 
-            "countrycode": "GF", 
-            "continent": "SA", 
-            "population": "195506", 
-            "currencycode": "EUR"
+            "currencycode": "EUR", 
+            "continent": "SA"
         }, 
         {
+            "countrycode": "GG", 
+            "population": "65228", 
             "name": "Guernsey", 
             "id": 79, 
-            "countrycode": "GG", 
-            "continent": "EU", 
-            "population": "65228", 
-            "currencycode": "GBP"
+            "currencycode": "GBP", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "GH", 
+            "population": "24339838", 
             "name": "Ghana", 
             "id": 80, 
-            "countrycode": "GH", 
-            "continent": "AF", 
-            "population": "24339838", 
-            "currencycode": "GHS"
+            "currencycode": "GHS", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "GI", 
+            "population": "27884", 
             "name": "Gibraltar", 
             "id": 81, 
-            "countrycode": "GI", 
-            "continent": "EU", 
-            "population": "27884", 
-            "currencycode": "GIP"
+            "currencycode": "GIP", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "GL", 
+            "population": "56375", 
             "name": "Greenland", 
             "id": 82, 
-            "countrycode": "GL", 
-            "continent": "NA", 
-            "population": "56375", 
-            "currencycode": "DKK"
+            "currencycode": "DKK", 
+            "continent": "NA"
         }, 
         {
+            "countrycode": "GM", 
+            "population": "1593256", 
             "name": "Gambia", 
             "id": 83, 
-            "countrycode": "GM", 
-            "continent": "AF", 
-            "population": "1593256", 
-            "currencycode": "GMD"
+            "currencycode": "GMD", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "GN", 
+            "population": "10324025", 
             "name": "Guinea", 
             "id": 84, 
-            "countrycode": "GN", 
-            "continent": "AF", 
-            "population": "10324025", 
-            "currencycode": "GNF"
+            "currencycode": "GNF", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "GP", 
+            "population": "443000", 
             "name": "Guadeloupe", 
             "id": 85, 
-            "countrycode": "GP", 
-            "continent": "NA", 
-            "population": "443000", 
-            "currencycode": "EUR"
+            "currencycode": "EUR", 
+            "continent": "NA"
         }, 
         {
+            "countrycode": "GQ", 
+            "population": "1014999", 
             "name": "Equatorial Guinea", 
             "id": 86, 
-            "countrycode": "GQ", 
-            "continent": "AF", 
-            "population": "1014999", 
-            "currencycode": "XAF"
+            "currencycode": "XAF", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "GR", 
+            "population": "11000000", 
             "name": "Greece", 
             "id": 87, 
-            "countrycode": "GR", 
-            "continent": "EU", 
-            "population": "11000000", 
-            "currencycode": "EUR"
+            "currencycode": "EUR", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "GS", 
+            "population": "30", 
             "name": "South Georgia and the South Sandwich Islands", 
             "id": 88, 
-            "countrycode": "GS", 
-            "continent": "AN", 
-            "population": "30", 
-            "currencycode": "GBP"
+            "currencycode": "GBP", 
+            "continent": "AN"
         }, 
         {
+            "countrycode": "GT", 
+            "population": "13550440", 
             "name": "Guatemala", 
             "id": 89, 
-            "countrycode": "GT", 
-            "continent": "NA", 
-            "population": "13550440", 
-            "currencycode": "GTQ"
+            "currencycode": "GTQ", 
+            "continent": "NA"
         }, 
         {
+            "countrycode": "GU", 
+            "population": "159358", 
             "name": "Guam", 
             "id": 90, 
-            "countrycode": "GU", 
-            "continent": "OC", 
-            "population": "159358", 
-            "currencycode": "USD"
+            "currencycode": "USD", 
+            "continent": "OC"
         }, 
         {
+            "countrycode": "GW", 
+            "population": "1565126", 
             "name": "Guinea-Bissau", 
             "id": 91, 
-            "countrycode": "GW", 
-            "continent": "AF", 
-            "population": "1565126", 
-            "currencycode": "XOF"
+            "currencycode": "XOF", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "GY", 
+            "population": "748486", 
             "name": "Guyana", 
             "id": 92, 
-            "countrycode": "GY", 
-            "continent": "SA", 
-            "population": "748486", 
-            "currencycode": "GYD"
+            "currencycode": "GYD", 
+            "continent": "SA"
         }, 
         {
+            "countrycode": "HK", 
+            "population": "6898686", 
             "name": "Hong Kong", 
             "id": 93, 
-            "countrycode": "HK", 
-            "continent": "AS", 
-            "population": "6898686", 
-            "currencycode": "HKD"
+            "currencycode": "HKD", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "HN", 
+            "population": "7989415", 
             "name": "Honduras", 
             "id": 94, 
-            "countrycode": "HN", 
-            "continent": "NA", 
-            "population": "7989415", 
-            "currencycode": "HNL"
+            "currencycode": "HNL", 
+            "continent": "NA"
         }, 
         {
+            "countrycode": "HR", 
+            "population": "4491000", 
             "name": "Croatia", 
             "id": 95, 
-            "countrycode": "HR", 
-            "continent": "EU", 
-            "population": "4491000", 
-            "currencycode": "HRK"
+            "currencycode": "HRK", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "HT", 
+            "population": "9648924", 
             "name": "Haiti", 
             "id": 96, 
-            "countrycode": "HT", 
-            "continent": "NA", 
-            "population": "9648924", 
-            "currencycode": "HTG"
+            "currencycode": "HTG", 
+            "continent": "NA"
         }, 
         {
+            "countrycode": "HU", 
+            "population": "9982000", 
             "name": "Hungary", 
             "id": 97, 
-            "countrycode": "HU", 
-            "continent": "EU", 
-            "population": "9982000", 
-            "currencycode": "HUF"
+            "currencycode": "HUF", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "ID", 
+            "population": "242968342", 
             "name": "Indonesia", 
             "id": 98, 
-            "countrycode": "ID", 
-            "continent": "AS", 
-            "population": "242968342", 
-            "currencycode": "IDR"
+            "currencycode": "IDR", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "IE", 
+            "population": "4622917", 
             "name": "Ireland", 
             "id": 99, 
-            "countrycode": "IE", 
-            "continent": "EU", 
-            "population": "4622917", 
-            "currencycode": "EUR"
+            "currencycode": "EUR", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "IL", 
+            "population": "7353985", 
             "name": "Israel", 
             "id": 100, 
-            "countrycode": "IL", 
-            "continent": "AS", 
-            "population": "7353985", 
-            "currencycode": "ILS"
+            "currencycode": "ILS", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "IM", 
+            "population": "75049", 
             "name": "Isle of Man", 
             "id": 101, 
-            "countrycode": "IM", 
-            "continent": "EU", 
-            "population": "75049", 
-            "currencycode": "GBP"
+            "currencycode": "GBP", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "IN", 
+            "population": "1173108018", 
             "name": "India", 
             "id": 102, 
-            "countrycode": "IN", 
-            "continent": "AS", 
-            "population": "1173108018", 
-            "currencycode": "INR"
+            "currencycode": "INR", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "IQ", 
+            "population": "29671605", 
             "name": "Iraq", 
             "id": 103, 
-            "countrycode": "IQ", 
-            "continent": "AS", 
-            "population": "29671605", 
-            "currencycode": "IQD"
+            "currencycode": "IQD", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "IR", 
+            "population": "76923300", 
             "name": "Iran", 
             "id": 104, 
-            "countrycode": "IR", 
-            "continent": "AS", 
-            "population": "76923300", 
-            "currencycode": "IRR"
+            "currencycode": "IRR", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "IS", 
+            "population": "308910", 
             "name": "Iceland", 
             "id": 105, 
-            "countrycode": "IS", 
-            "continent": "EU", 
-            "population": "308910", 
-            "currencycode": "ISK"
+            "currencycode": "ISK", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "IT", 
+            "population": "60340328", 
             "name": "Italy", 
             "id": 106, 
-            "countrycode": "IT", 
-            "continent": "EU", 
-            "population": "60340328", 
-            "currencycode": "EUR"
+            "currencycode": "EUR", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "JE", 
+            "population": "90812", 
             "name": "Jersey", 
             "id": 107, 
-            "countrycode": "JE", 
-            "continent": "EU", 
-            "population": "90812", 
-            "currencycode": "GBP"
+            "currencycode": "GBP", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "JM", 
+            "population": "2847232", 
             "name": "Jamaica", 
             "id": 108, 
-            "countrycode": "JM", 
-            "continent": "NA", 
-            "population": "2847232", 
-            "currencycode": "JMD"
+            "currencycode": "JMD", 
+            "continent": "NA"
         }, 
         {
+            "countrycode": "JO", 
+            "population": "6407085", 
             "name": "Jordan", 
             "id": 109, 
-            "countrycode": "JO", 
-            "continent": "AS", 
-            "population": "6407085", 
-            "currencycode": "JOD"
+            "currencycode": "JOD", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "JP", 
+            "population": "127288000", 
             "name": "Japan", 
             "id": 110, 
-            "countrycode": "JP", 
-            "continent": "AS", 
-            "population": "127288000", 
-            "currencycode": "JPY"
+            "currencycode": "JPY", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "KE", 
+            "population": "40046566", 
             "name": "Kenya", 
             "id": 111, 
-            "countrycode": "KE", 
-            "continent": "AF", 
-            "population": "40046566", 
-            "currencycode": "KES"
+            "currencycode": "KES", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "KG", 
+            "population": "5508626", 
             "name": "Kyrgyzstan", 
             "id": 112, 
-            "countrycode": "KG", 
-            "continent": "AS", 
-            "population": "5508626", 
-            "currencycode": "KGS"
+            "currencycode": "KGS", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "KH", 
+            "population": "14453680", 
             "name": "Cambodia", 
             "id": 113, 
-            "countrycode": "KH", 
-            "continent": "AS", 
-            "population": "14453680", 
-            "currencycode": "KHR"
+            "currencycode": "KHR", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "KI", 
+            "population": "92533", 
             "name": "Kiribati", 
             "id": 114, 
-            "countrycode": "KI", 
-            "continent": "OC", 
-            "population": "92533", 
-            "currencycode": "AUD"
+            "currencycode": "AUD", 
+            "continent": "OC"
         }, 
         {
+            "countrycode": "KM", 
+            "population": "773407", 
             "name": "Comoros", 
             "id": 115, 
-            "countrycode": "KM", 
-            "continent": "AF", 
-            "population": "773407", 
-            "currencycode": "KMF"
+            "currencycode": "KMF", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "KN", 
+            "population": "49898", 
             "name": "Saint Kitts and Nevis", 
             "id": 116, 
-            "countrycode": "KN", 
-            "continent": "NA", 
-            "population": "49898", 
-            "currencycode": "XCD"
+            "currencycode": "XCD", 
+            "continent": "NA"
         }, 
         {
+            "countrycode": "KP", 
+            "population": "22912177", 
             "name": "North Korea", 
             "id": 117, 
-            "countrycode": "KP", 
-            "continent": "AS", 
-            "population": "22912177", 
-            "currencycode": "KPW"
+            "currencycode": "KPW", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "KR", 
+            "population": "48422644", 
             "name": "South Korea", 
             "id": 118, 
-            "countrycode": "KR", 
-            "continent": "AS", 
-            "population": "48422644", 
-            "currencycode": "KRW"
+            "currencycode": "KRW", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "KW", 
+            "population": "2789132", 
             "name": "Kuwait", 
             "id": 119, 
-            "countrycode": "KW", 
-            "continent": "AS", 
-            "population": "2789132", 
-            "currencycode": "KWD"
+            "currencycode": "KWD", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "KY", 
+            "population": "44270", 
             "name": "Cayman Islands", 
             "id": 120, 
-            "countrycode": "KY", 
-            "continent": "NA", 
-            "population": "44270", 
-            "currencycode": "KYD"
+            "currencycode": "KYD", 
+            "continent": "NA"
         }, 
         {
+            "countrycode": "KZ", 
+            "population": "15340000", 
             "name": "Kazakhstan", 
             "id": 121, 
-            "countrycode": "KZ", 
-            "continent": "AS", 
-            "population": "15340000", 
-            "currencycode": "KZT"
+            "currencycode": "KZT", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "LA", 
+            "population": "6368162", 
             "name": "Laos", 
             "id": 122, 
-            "countrycode": "LA", 
-            "continent": "AS", 
-            "population": "6368162", 
-            "currencycode": "LAK"
+            "currencycode": "LAK", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "LB", 
+            "population": "4125247", 
             "name": "Lebanon", 
             "id": 123, 
-            "countrycode": "LB", 
-            "continent": "AS", 
-            "population": "4125247", 
-            "currencycode": "LBP"
+            "currencycode": "LBP", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "LC", 
+            "population": "160922", 
             "name": "Saint Lucia", 
             "id": 124, 
-            "countrycode": "LC", 
-            "continent": "NA", 
-            "population": "160922", 
-            "currencycode": "XCD"
+            "currencycode": "XCD", 
+            "continent": "NA"
         }, 
         {
+            "countrycode": "LI", 
+            "population": "35000", 
             "name": "Liechtenstein", 
             "id": 125, 
-            "countrycode": "LI", 
-            "continent": "EU", 
-            "population": "35000", 
-            "currencycode": "CHF"
+            "currencycode": "CHF", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "LK", 
+            "population": "21513990", 
             "name": "Sri Lanka", 
             "id": 126, 
-            "countrycode": "LK", 
-            "continent": "AS", 
-            "population": "21513990", 
-            "currencycode": "LKR"
+            "currencycode": "LKR", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "LR", 
+            "population": "3685076", 
             "name": "Liberia", 
             "id": 127, 
-            "countrycode": "LR", 
-            "continent": "AF", 
-            "population": "3685076", 
-            "currencycode": "LRD"
+            "currencycode": "LRD", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "LS", 
+            "population": "1919552", 
             "name": "Lesotho", 
             "id": 128, 
-            "countrycode": "LS", 
-            "continent": "AF", 
-            "population": "1919552", 
-            "currencycode": "LSL"
+            "currencycode": "LSL", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "LT", 
+            "population": "3565000", 
             "name": "Lithuania", 
             "id": 129, 
-            "countrycode": "LT", 
-            "continent": "EU", 
-            "population": "3565000", 
-            "currencycode": "LTL"
+            "currencycode": "LTL", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "LU", 
+            "population": "497538", 
             "name": "Luxembourg", 
             "id": 130, 
-            "countrycode": "LU", 
-            "continent": "EU", 
-            "population": "497538", 
-            "currencycode": "EUR"
+            "currencycode": "EUR", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "LV", 
+            "population": "2217969", 
             "name": "Latvia", 
             "id": 131, 
-            "countrycode": "LV", 
-            "continent": "EU", 
-            "population": "2217969", 
-            "currencycode": "LVL"
+            "currencycode": "LVL", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "LY", 
+            "population": "6461454", 
             "name": "Libya", 
             "id": 132, 
-            "countrycode": "LY", 
-            "continent": "AF", 
-            "population": "6461454", 
-            "currencycode": "LYD"
+            "currencycode": "LYD", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "MA", 
+            "population": "31627428", 
             "name": "Morocco", 
             "id": 133, 
-            "countrycode": "MA", 
-            "continent": "AF", 
-            "population": "31627428", 
-            "currencycode": "MAD"
+            "currencycode": "MAD", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "MC", 
+            "population": "32965", 
             "name": "Monaco", 
             "id": 134, 
-            "countrycode": "MC", 
-            "continent": "EU", 
-            "population": "32965", 
-            "currencycode": "EUR"
+            "currencycode": "EUR", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "MD", 
+            "population": "4324000", 
             "name": "Moldova", 
             "id": 135, 
-            "countrycode": "MD", 
-            "continent": "EU", 
-            "population": "4324000", 
-            "currencycode": "MDL"
+            "currencycode": "MDL", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "ME", 
+            "population": "666730", 
             "name": "Montenegro", 
             "id": 136, 
-            "countrycode": "ME", 
-            "continent": "EU", 
-            "population": "666730", 
-            "currencycode": "EUR"
+            "currencycode": "EUR", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "MF", 
+            "population": "35925", 
             "name": "Saint Martin", 
             "id": 137, 
-            "countrycode": "MF", 
-            "continent": "NA", 
-            "population": "35925", 
-            "currencycode": "EUR"
+            "currencycode": "EUR", 
+            "continent": "NA"
         }, 
         {
+            "countrycode": "MG", 
+            "population": "21281844", 
             "name": "Madagascar", 
             "id": 138, 
-            "countrycode": "MG", 
-            "continent": "AF", 
-            "population": "21281844", 
-            "currencycode": "MGA"
+            "currencycode": "MGA", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "MH", 
+            "population": "65859", 
             "name": "Marshall Islands", 
             "id": 139, 
-            "countrycode": "MH", 
-            "continent": "OC", 
-            "population": "65859", 
-            "currencycode": "USD"
+            "currencycode": "USD", 
+            "continent": "OC"
         }, 
         {
+            "countrycode": "MK", 
+            "population": "2061000", 
             "name": "Macedonia", 
             "id": 140, 
-            "countrycode": "MK", 
-            "continent": "EU", 
-            "population": "2061000", 
-            "currencycode": "MKD"
+            "currencycode": "MKD", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "ML", 
+            "population": "13796354", 
             "name": "Mali", 
             "id": 141, 
-            "countrycode": "ML", 
-            "continent": "AF", 
-            "population": "13796354", 
-            "currencycode": "XOF"
+            "currencycode": "XOF", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "MM", 
+            "population": "53414374", 
             "name": "Myanmar", 
             "id": 142, 
-            "countrycode": "MM", 
-            "continent": "AS", 
-            "population": "53414374", 
-            "currencycode": "MMK"
+            "currencycode": "MMK", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "MN", 
+            "population": "3086918", 
             "name": "Mongolia", 
             "id": 143, 
-            "countrycode": "MN", 
-            "continent": "AS", 
-            "population": "3086918", 
-            "currencycode": "MNT"
+            "currencycode": "MNT", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "MO", 
+            "population": "449198", 
             "name": "Macao", 
             "id": 144, 
-            "countrycode": "MO", 
-            "continent": "AS", 
-            "population": "449198", 
-            "currencycode": "MOP"
+            "currencycode": "MOP", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "MP", 
+            "population": "53883", 
             "name": "Northern Mariana Islands", 
             "id": 145, 
-            "countrycode": "MP", 
-            "continent": "OC", 
-            "population": "53883", 
-            "currencycode": "USD"
+            "currencycode": "USD", 
+            "continent": "OC"
         }, 
         {
+            "countrycode": "MQ", 
+            "population": "432900", 
             "name": "Martinique", 
             "id": 146, 
-            "countrycode": "MQ", 
-            "continent": "NA", 
-            "population": "432900", 
-            "currencycode": "EUR"
+            "currencycode": "EUR", 
+            "continent": "NA"
         }, 
         {
+            "countrycode": "MR", 
+            "population": "3205060", 
             "name": "Mauritania", 
             "id": 147, 
-            "countrycode": "MR", 
-            "continent": "AF", 
-            "population": "3205060", 
-            "currencycode": "MRO"
+            "currencycode": "MRO", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "MS", 
+            "population": "9341", 
             "name": "Montserrat", 
             "id": 148, 
-            "countrycode": "MS", 
-            "continent": "NA", 
-            "population": "9341", 
-            "currencycode": "XCD"
+            "currencycode": "XCD", 
+            "continent": "NA"
         }, 
         {
+            "countrycode": "MT", 
+            "population": "403000", 
             "name": "Malta", 
             "id": 149, 
-            "countrycode": "MT", 
-            "continent": "EU", 
-            "population": "403000", 
-            "currencycode": "EUR"
+            "currencycode": "EUR", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "MU", 
+            "population": "1294104", 
             "name": "Mauritius", 
             "id": 150, 
-            "countrycode": "MU", 
-            "continent": "AF", 
-            "population": "1294104", 
-            "currencycode": "MUR"
+            "currencycode": "MUR", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "MV", 
+            "population": "395650", 
             "name": "Maldives", 
             "id": 151, 
-            "countrycode": "MV", 
-            "continent": "AS", 
-            "population": "395650", 
-            "currencycode": "MVR"
+            "currencycode": "MVR", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "MW", 
+            "population": "15447500", 
             "name": "Malawi", 
             "id": 152, 
-            "countrycode": "MW", 
-            "continent": "AF", 
-            "population": "15447500", 
-            "currencycode": "MWK"
+            "currencycode": "MWK", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "MX", 
+            "population": "112468855", 
             "name": "Mexico", 
             "id": 153, 
-            "countrycode": "MX", 
-            "continent": "NA", 
-            "population": "112468855", 
-            "currencycode": "MXN"
+            "currencycode": "MXN", 
+            "continent": "NA"
         }, 
         {
+            "countrycode": "MY", 
+            "population": "28274729", 
             "name": "Malaysia", 
             "id": 154, 
-            "countrycode": "MY", 
-            "continent": "AS", 
-            "population": "28274729", 
-            "currencycode": "MYR"
+            "currencycode": "MYR", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "MZ", 
+            "population": "22061451", 
             "name": "Mozambique", 
             "id": 155, 
-            "countrycode": "MZ", 
-            "continent": "AF", 
-            "population": "22061451", 
-            "currencycode": "MZN"
+            "currencycode": "MZN", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "NA", 
+            "population": "2128471", 
             "name": "Namibia", 
             "id": 156, 
-            "countrycode": "NA", 
-            "continent": "AF", 
-            "population": "2128471", 
-            "currencycode": "NAD"
+            "currencycode": "NAD", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "NC", 
+            "population": "216494", 
             "name": "New Caledonia", 
             "id": 157, 
-            "countrycode": "NC", 
-            "continent": "OC", 
-            "population": "216494", 
-            "currencycode": "XPF"
+            "currencycode": "XPF", 
+            "continent": "OC"
         }, 
         {
+            "countrycode": "NE", 
+            "population": "15878271", 
             "name": "Niger", 
             "id": 158, 
-            "countrycode": "NE", 
-            "continent": "AF", 
-            "population": "15878271", 
-            "currencycode": "XOF"
+            "currencycode": "XOF", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "NF", 
+            "population": "1828", 
             "name": "Norfolk Island", 
             "id": 159, 
-            "countrycode": "NF", 
-            "continent": "OC", 
-            "population": "1828", 
-            "currencycode": "AUD"
+            "currencycode": "AUD", 
+            "continent": "OC"
         }, 
         {
+            "countrycode": "NG", 
+            "population": "154000000", 
             "name": "Nigeria", 
             "id": 160, 
-            "countrycode": "NG", 
-            "continent": "AF", 
-            "population": "154000000", 
-            "currencycode": "NGN"
+            "currencycode": "NGN", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "NI", 
+            "population": "5995928", 
             "name": "Nicaragua", 
             "id": 161, 
-            "countrycode": "NI", 
-            "continent": "NA", 
-            "population": "5995928", 
-            "currencycode": "NIO"
+            "currencycode": "NIO", 
+            "continent": "NA"
         }, 
         {
+            "countrycode": "NL", 
+            "population": "16645000", 
             "name": "Netherlands", 
             "id": 162, 
-            "countrycode": "NL", 
-            "continent": "EU", 
-            "population": "16645000", 
-            "currencycode": "EUR"
+            "currencycode": "EUR", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "NO", 
+            "population": "5009150", 
             "name": "Norway", 
             "id": 163, 
-            "countrycode": "NO", 
-            "continent": "EU", 
-            "population": "5009150", 
-            "currencycode": "NOK"
+            "currencycode": "NOK", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "NP", 
+            "population": "28951852", 
             "name": "Nepal", 
             "id": 164, 
-            "countrycode": "NP", 
-            "continent": "AS", 
-            "population": "28951852", 
-            "currencycode": "NPR"
+            "currencycode": "NPR", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "NU", 
+            "population": "2166", 
             "name": "Niue", 
             "id": 165, 
-            "countrycode": "NU", 
-            "continent": "OC", 
-            "population": "2166", 
-            "currencycode": "NZD"
+            "currencycode": "NZD", 
+            "continent": "OC"
         }, 
         {
+            "countrycode": "NZ", 
+            "population": "4252277", 
             "name": "New Zealand", 
             "id": 166, 
-            "countrycode": "NZ", 
-            "continent": "OC", 
-            "population": "4252277", 
-            "currencycode": "NZD"
+            "currencycode": "NZD", 
+            "continent": "OC"
         }, 
         {
+            "countrycode": "OM", 
+            "population": "2967717", 
             "name": "Oman", 
             "id": 167, 
-            "countrycode": "OM", 
-            "continent": "AS", 
-            "population": "2967717", 
-            "currencycode": "OMR"
+            "currencycode": "OMR", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "PA", 
+            "population": "3410676", 
             "name": "Panama", 
             "id": 168, 
-            "countrycode": "PA", 
-            "continent": "NA", 
-            "population": "3410676", 
-            "currencycode": "PAB"
+            "currencycode": "PAB", 
+            "continent": "NA"
         }, 
         {
+            "countrycode": "PE", 
+            "population": "29907003", 
             "name": "Peru", 
             "id": 169, 
-            "countrycode": "PE", 
-            "continent": "SA", 
-            "population": "29907003", 
-            "currencycode": "PEN"
+            "currencycode": "PEN", 
+            "continent": "SA"
         }, 
         {
+            "countrycode": "PF", 
+            "population": "270485", 
             "name": "French Polynesia", 
             "id": 170, 
-            "countrycode": "PF", 
-            "continent": "OC", 
-            "population": "270485", 
-            "currencycode": "XPF"
+            "currencycode": "XPF", 
+            "continent": "OC"
         }, 
         {
+            "countrycode": "PG", 
+            "population": "6064515", 
             "name": "Papua New Guinea", 
             "id": 171, 
-            "countrycode": "PG", 
-            "continent": "OC", 
-            "population": "6064515", 
-            "currencycode": "PGK"
+            "currencycode": "PGK", 
+            "continent": "OC"
         }, 
         {
+            "countrycode": "PH", 
+            "population": "99900177", 
             "name": "Philippines", 
             "id": 172, 
-            "countrycode": "PH", 
-            "continent": "AS", 
-            "population": "99900177", 
-            "currencycode": "PHP"
+            "currencycode": "PHP", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "PK", 
+            "population": "184404791", 
             "name": "Pakistan", 
             "id": 173, 
-            "countrycode": "PK", 
-            "continent": "AS", 
-            "population": "184404791", 
-            "currencycode": "PKR"
+            "currencycode": "PKR", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "PL", 
+            "population": "38500000", 
             "name": "Poland", 
             "id": 174, 
-            "countrycode": "PL", 
-            "continent": "EU", 
-            "population": "38500000", 
-            "currencycode": "PLN"
+            "currencycode": "PLN", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "PM", 
+            "population": "7012", 
             "name": "Saint Pierre and Miquelon", 
             "id": 175, 
-            "countrycode": "PM", 
-            "continent": "NA", 
-            "population": "7012", 
-            "currencycode": "EUR"
+            "currencycode": "EUR", 
+            "continent": "NA"
         }, 
         {
+            "countrycode": "PN", 
+            "population": "46", 
             "name": "Pitcairn", 
             "id": 176, 
-            "countrycode": "PN", 
-            "continent": "OC", 
-            "population": "46", 
-            "currencycode": "NZD"
+            "currencycode": "NZD", 
+            "continent": "OC"
         }, 
         {
+            "countrycode": "PR", 
+            "population": "3916632", 
             "name": "Puerto Rico", 
             "id": 177, 
-            "countrycode": "PR", 
-            "continent": "NA", 
-            "population": "3916632", 
-            "currencycode": "USD"
+            "currencycode": "USD", 
+            "continent": "NA"
         }, 
         {
+            "countrycode": "PS", 
+            "population": "3800000", 
             "name": "Palestinian Territory", 
             "id": 178, 
-            "countrycode": "PS", 
-            "continent": "AS", 
-            "population": "3800000", 
-            "currencycode": "ILS"
+            "currencycode": "ILS", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "PT", 
+            "population": "10676000", 
             "name": "Portugal", 
             "id": 179, 
-            "countrycode": "PT", 
-            "continent": "EU", 
-            "population": "10676000", 
-            "currencycode": "EUR"
+            "currencycode": "EUR", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "PW", 
+            "population": "19907", 
             "name": "Palau", 
             "id": 180, 
-            "countrycode": "PW", 
-            "continent": "OC", 
-            "population": "19907", 
-            "currencycode": "USD"
+            "currencycode": "USD", 
+            "continent": "OC"
         }, 
         {
+            "countrycode": "PY", 
+            "population": "6375830", 
             "name": "Paraguay", 
             "id": 181, 
-            "countrycode": "PY", 
-            "continent": "SA", 
-            "population": "6375830", 
-            "currencycode": "PYG"
+            "currencycode": "PYG", 
+            "continent": "SA"
         }, 
         {
+            "countrycode": "QA", 
+            "population": "840926", 
             "name": "Qatar", 
             "id": 182, 
-            "countrycode": "QA", 
-            "continent": "AS", 
-            "population": "840926", 
-            "currencycode": "QAR"
+            "currencycode": "QAR", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "RE", 
+            "population": "776948", 
             "name": "Reunion", 
             "id": 183, 
-            "countrycode": "RE", 
-            "continent": "AF", 
-            "population": "776948", 
-            "currencycode": "EUR"
+            "currencycode": "EUR", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "RO", 
+            "population": "21959278", 
             "name": "Romania", 
             "id": 184, 
-            "countrycode": "RO", 
-            "continent": "EU", 
-            "population": "21959278", 
-            "currencycode": "RON"
+            "currencycode": "RON", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "RS", 
+            "population": "7344847", 
             "name": "Serbia", 
             "id": 185, 
-            "countrycode": "RS", 
-            "continent": "EU", 
-            "population": "7344847", 
-            "currencycode": "RSD"
+            "currencycode": "RSD", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "RU", 
+            "population": "140702000", 
             "name": "Russia", 
             "id": 186, 
-            "countrycode": "RU", 
-            "continent": "EU", 
-            "population": "140702000", 
-            "currencycode": "RUB"
+            "currencycode": "RUB", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "RW", 
+            "population": "11055976", 
             "name": "Rwanda", 
             "id": 187, 
-            "countrycode": "RW", 
-            "continent": "AF", 
-            "population": "11055976", 
-            "currencycode": "RWF"
+            "currencycode": "RWF", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "SA", 
+            "population": "25731776", 
             "name": "Saudi Arabia", 
             "id": 188, 
-            "countrycode": "SA", 
-            "continent": "AS", 
-            "population": "25731776", 
-            "currencycode": "SAR"
+            "currencycode": "SAR", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "SB", 
+            "population": "559198", 
             "name": "Solomon Islands", 
             "id": 189, 
-            "countrycode": "SB", 
-            "continent": "OC", 
-            "population": "559198", 
-            "currencycode": "SBD"
+            "currencycode": "SBD", 
+            "continent": "OC"
         }, 
         {
+            "countrycode": "SC", 
+            "population": "88340", 
             "name": "Seychelles", 
             "id": 190, 
-            "countrycode": "SC", 
-            "continent": "AF", 
-            "population": "88340", 
-            "currencycode": "SCR"
+            "currencycode": "SCR", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "SD", 
+            "population": "35000000", 
             "name": "Sudan", 
             "id": 191, 
-            "countrycode": "SD", 
-            "continent": "AF", 
-            "population": "35000000", 
-            "currencycode": "SDG"
+            "currencycode": "SDG", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "SE", 
+            "population": "9555893", 
             "name": "Sweden", 
             "id": 192, 
-            "countrycode": "SE", 
-            "continent": "EU", 
-            "population": "9555893", 
-            "currencycode": "SEK"
+            "currencycode": "SEK", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "SG", 
+            "population": "4701069", 
             "name": "Singapore", 
             "id": 193, 
-            "countrycode": "SG", 
-            "continent": "AS", 
-            "population": "4701069", 
-            "currencycode": "SGD"
+            "currencycode": "SGD", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "SH", 
+            "population": "7460", 
             "name": "Saint Helena", 
             "id": 194, 
-            "countrycode": "SH", 
-            "continent": "AF", 
-            "population": "7460", 
-            "currencycode": "SHP"
+            "currencycode": "SHP", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "SI", 
+            "population": "2007000", 
             "name": "Slovenia", 
             "id": 195, 
-            "countrycode": "SI", 
-            "continent": "EU", 
-            "population": "2007000", 
-            "currencycode": "EUR"
+            "currencycode": "EUR", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "SJ", 
+            "population": "2550", 
             "name": "Svalbard and Jan Mayen", 
             "id": 196, 
-            "countrycode": "SJ", 
-            "continent": "EU", 
-            "population": "2550", 
-            "currencycode": "NOK"
+            "currencycode": "NOK", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "SK", 
+            "population": "5455000", 
             "name": "Slovakia", 
             "id": 197, 
-            "countrycode": "SK", 
-            "continent": "EU", 
-            "population": "5455000", 
-            "currencycode": "EUR"
+            "currencycode": "EUR", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "SL", 
+            "population": "5245695", 
             "name": "Sierra Leone", 
             "id": 198, 
-            "countrycode": "SL", 
-            "continent": "AF", 
-            "population": "5245695", 
-            "currencycode": "SLL"
+            "currencycode": "SLL", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "SM", 
+            "population": "31477", 
             "name": "San Marino", 
             "id": 199, 
-            "countrycode": "SM", 
-            "continent": "EU", 
-            "population": "31477", 
-            "currencycode": "EUR"
+            "currencycode": "EUR", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "SN", 
+            "population": "12323252", 
             "name": "Senegal", 
             "id": 200, 
-            "countrycode": "SN", 
-            "continent": "AF", 
-            "population": "12323252", 
-            "currencycode": "XOF"
+            "currencycode": "XOF", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "SO", 
+            "population": "10112453", 
             "name": "Somalia", 
             "id": 201, 
-            "countrycode": "SO", 
-            "continent": "AF", 
-            "population": "10112453", 
-            "currencycode": "SOS"
+            "currencycode": "SOS", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "SR", 
+            "population": "492829", 
             "name": "Suriname", 
             "id": 202, 
-            "countrycode": "SR", 
-            "continent": "SA", 
-            "population": "492829", 
-            "currencycode": "SRD"
+            "currencycode": "SRD", 
+            "continent": "SA"
         }, 
         {
+            "countrycode": "SS", 
+            "population": "8260490", 
             "name": "South Sudan", 
             "id": 203, 
-            "countrycode": "SS", 
-            "continent": "AF", 
-            "population": "8260490", 
-            "currencycode": "SSP"
+            "currencycode": "SSP", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "ST", 
+            "population": "175808", 
             "name": "Sao Tome and Principe", 
             "id": 204, 
-            "countrycode": "ST", 
-            "continent": "AF", 
-            "population": "175808", 
-            "currencycode": "STD"
+            "currencycode": "STD", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "SV", 
+            "population": "6052064", 
             "name": "El Salvador", 
             "id": 205, 
-            "countrycode": "SV", 
-            "continent": "NA", 
-            "population": "6052064", 
-            "currencycode": "USD"
+            "currencycode": "USD", 
+            "continent": "NA"
         }, 
         {
+            "countrycode": "SX", 
+            "population": "37429", 
             "name": "Sint Maarten", 
             "id": 206, 
-            "countrycode": "SX", 
-            "continent": "NA", 
-            "population": "37429", 
-            "currencycode": "ANG"
+            "currencycode": "ANG", 
+            "continent": "NA"
         }, 
         {
+            "countrycode": "SY", 
+            "population": "22198110", 
             "name": "Syria", 
             "id": 207, 
-            "countrycode": "SY", 
-            "continent": "AS", 
-            "population": "22198110", 
-            "currencycode": "SYP"
+            "currencycode": "SYP", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "SZ", 
+            "population": "1354051", 
             "name": "Swaziland", 
             "id": 208, 
-            "countrycode": "SZ", 
-            "continent": "AF", 
-            "population": "1354051", 
-            "currencycode": "SZL"
+            "currencycode": "SZL", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "TC", 
+            "population": "20556", 
             "name": "Turks and Caicos Islands", 
             "id": 209, 
-            "countrycode": "TC", 
-            "continent": "NA", 
-            "population": "20556", 
-            "currencycode": "USD"
+            "currencycode": "USD", 
+            "continent": "NA"
         }, 
         {
+            "countrycode": "TD", 
+            "population": "10543464", 
             "name": "Chad", 
             "id": 210, 
-            "countrycode": "TD", 
-            "continent": "AF", 
-            "population": "10543464", 
-            "currencycode": "XAF"
+            "currencycode": "XAF", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "TF", 
+            "population": "140", 
             "name": "French Southern Territories", 
             "id": 211, 
-            "countrycode": "TF", 
-            "continent": "AN", 
-            "population": "140", 
-            "currencycode": "EUR"
+            "currencycode": "EUR", 
+            "continent": "AN"
         }, 
         {
+            "countrycode": "TG", 
+            "population": "6587239", 
             "name": "Togo", 
             "id": 212, 
-            "countrycode": "TG", 
-            "continent": "AF", 
-            "population": "6587239", 
-            "currencycode": "XOF"
+            "currencycode": "XOF", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "TH", 
+            "population": "67089500", 
             "name": "Thailand", 
             "id": 213, 
-            "countrycode": "TH", 
-            "continent": "AS", 
-            "population": "67089500", 
-            "currencycode": "THB"
+            "currencycode": "THB", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "TJ", 
+            "population": "7487489", 
             "name": "Tajikistan", 
             "id": 214, 
-            "countrycode": "TJ", 
-            "continent": "AS", 
-            "population": "7487489", 
-            "currencycode": "TJS"
+            "currencycode": "TJS", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "TL", 
+            "population": "1154625", 
             "name": "East Timor", 
             "id": 215, 
-            "countrycode": "TL", 
-            "continent": "OC", 
-            "population": "1154625", 
-            "currencycode": "USD"
+            "currencycode": "USD", 
+            "continent": "OC"
         }, 
         {
+            "countrycode": "TM", 
+            "population": "4940916", 
             "name": "Turkmenistan", 
             "id": 216, 
-            "countrycode": "TM", 
-            "continent": "AS", 
-            "population": "4940916", 
-            "currencycode": "TMT"
+            "currencycode": "TMT", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "TN", 
+            "population": "10589025", 
             "name": "Tunisia", 
             "id": 217, 
-            "countrycode": "TN", 
-            "continent": "AF", 
-            "population": "10589025", 
-            "currencycode": "TND"
+            "currencycode": "TND", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "TO", 
+            "population": "122580", 
             "name": "Tonga", 
             "id": 218, 
-            "countrycode": "TO", 
-            "continent": "OC", 
-            "population": "122580", 
-            "currencycode": "TOP"
+            "currencycode": "TOP", 
+            "continent": "OC"
         }, 
         {
+            "countrycode": "TR", 
+            "population": "77804122", 
             "name": "Turkey", 
             "id": 219, 
-            "countrycode": "TR", 
-            "continent": "AS", 
-            "population": "77804122", 
-            "currencycode": "TRY"
+            "currencycode": "TRY", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "TT", 
+            "population": "1228691", 
             "name": "Trinidad and Tobago", 
             "id": 220, 
-            "countrycode": "TT", 
-            "continent": "NA", 
-            "population": "1228691", 
-            "currencycode": "TTD"
+            "currencycode": "TTD", 
+            "continent": "NA"
         }, 
         {
+            "countrycode": "TV", 
+            "population": "10472", 
             "name": "Tuvalu", 
             "id": 221, 
-            "countrycode": "TV", 
-            "continent": "OC", 
-            "population": "10472", 
-            "currencycode": "AUD"
+            "currencycode": "AUD", 
+            "continent": "OC"
         }, 
         {
+            "countrycode": "TW", 
+            "population": "22894384", 
             "name": "Taiwan", 
             "id": 222, 
-            "countrycode": "TW", 
-            "continent": "AS", 
-            "population": "22894384", 
-            "currencycode": "TWD"
+            "currencycode": "TWD", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "TZ", 
+            "population": "41892895", 
             "name": "Tanzania", 
             "id": 223, 
-            "countrycode": "TZ", 
-            "continent": "AF", 
-            "population": "41892895", 
-            "currencycode": "TZS"
+            "currencycode": "TZS", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "UA", 
+            "population": "45415596", 
             "name": "Ukraine", 
             "id": 224, 
-            "countrycode": "UA", 
-            "continent": "EU", 
-            "population": "45415596", 
-            "currencycode": "UAH"
+            "currencycode": "UAH", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "UG", 
+            "population": "33398682", 
             "name": "Uganda", 
             "id": 225, 
-            "countrycode": "UG", 
-            "continent": "AF", 
-            "population": "33398682", 
-            "currencycode": "UGX"
+            "currencycode": "UGX", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "US", 
+            "population": "310232863", 
             "name": "United States", 
             "id": 226, 
-            "countrycode": "US", 
-            "continent": "NA", 
-            "population": "310232863", 
-            "currencycode": "USD"
+            "currencycode": "USD", 
+            "continent": "NA"
         }, 
         {
+            "countrycode": "UY", 
+            "population": "3477000", 
             "name": "Uruguay", 
             "id": 227, 
-            "countrycode": "UY", 
-            "continent": "SA", 
-            "population": "3477000", 
-            "currencycode": "UYU"
+            "currencycode": "UYU", 
+            "continent": "SA"
         }, 
         {
+            "countrycode": "UZ", 
+            "population": "27865738", 
             "name": "Uzbekistan", 
             "id": 228, 
-            "countrycode": "UZ", 
-            "continent": "AS", 
-            "population": "27865738", 
-            "currencycode": "UZS"
+            "currencycode": "UZS", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "VA", 
+            "population": "921", 
             "name": "Vatican", 
             "id": 229, 
-            "countrycode": "VA", 
-            "continent": "EU", 
-            "population": "921", 
-            "currencycode": "EUR"
+            "currencycode": "EUR", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "VC", 
+            "population": "104217", 
             "name": "Saint Vincent and the Grenadines", 
             "id": 230, 
-            "countrycode": "VC", 
-            "continent": "NA", 
-            "population": "104217", 
-            "currencycode": "XCD"
+            "currencycode": "XCD", 
+            "continent": "NA"
         }, 
         {
+            "countrycode": "VE", 
+            "population": "27223228", 
             "name": "Venezuela", 
             "id": 231, 
-            "countrycode": "VE", 
-            "continent": "SA", 
-            "population": "27223228", 
-            "currencycode": "VEF"
+            "currencycode": "VEF", 
+            "continent": "SA"
         }, 
         {
+            "countrycode": "VG", 
+            "population": "21730", 
             "name": "British Virgin Islands", 
             "id": 232, 
-            "countrycode": "VG", 
-            "continent": "NA", 
-            "population": "21730", 
-            "currencycode": "USD"
+            "currencycode": "USD", 
+            "continent": "NA"
         }, 
         {
+            "countrycode": "VI", 
+            "population": "108708", 
             "name": "U.S. Virgin Islands", 
             "id": 233, 
-            "countrycode": "VI", 
-            "continent": "NA", 
-            "population": "108708", 
-            "currencycode": "USD"
+            "currencycode": "USD", 
+            "continent": "NA"
         }, 
         {
+            "countrycode": "VN", 
+            "population": "89571130", 
             "name": "Vietnam", 
             "id": 234, 
-            "countrycode": "VN", 
-            "continent": "AS", 
-            "population": "89571130", 
-            "currencycode": "VND"
+            "currencycode": "VND", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "VU", 
+            "population": "221552", 
             "name": "Vanuatu", 
             "id": 235, 
-            "countrycode": "VU", 
-            "continent": "OC", 
-            "population": "221552", 
-            "currencycode": "VUV"
+            "currencycode": "VUV", 
+            "continent": "OC"
         }, 
         {
+            "countrycode": "WF", 
+            "population": "16025", 
             "name": "Wallis and Futuna", 
             "id": 236, 
-            "countrycode": "WF", 
-            "continent": "OC", 
-            "population": "16025", 
-            "currencycode": "XPF"
+            "currencycode": "XPF", 
+            "continent": "OC"
         }, 
         {
+            "countrycode": "WS", 
+            "population": "192001", 
             "name": "Samoa", 
             "id": 237, 
-            "countrycode": "WS", 
-            "continent": "OC", 
-            "population": "192001", 
-            "currencycode": "WST"
+            "currencycode": "WST", 
+            "continent": "OC"
         }, 
         {
+            "countrycode": "XK", 
+            "population": "1800000", 
             "name": "Kosovo", 
             "id": 238, 
-            "countrycode": "XK", 
-            "continent": "EU", 
-            "population": "1800000", 
-            "currencycode": "EUR"
+            "currencycode": "EUR", 
+            "continent": "EU"
         }, 
         {
+            "countrycode": "YE", 
+            "population": "23495361", 
             "name": "Yemen", 
             "id": 239, 
-            "countrycode": "YE", 
-            "continent": "AS", 
-            "population": "23495361", 
-            "currencycode": "YER"
+            "currencycode": "YER", 
+            "continent": "AS"
         }, 
         {
+            "countrycode": "YT", 
+            "population": "159042", 
             "name": "Mayotte", 
             "id": 240, 
-            "countrycode": "YT", 
-            "continent": "AF", 
-            "population": "159042", 
-            "currencycode": "EUR"
+            "currencycode": "EUR", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "ZA", 
+            "population": "49000000", 
             "name": "South Africa", 
             "id": 241, 
-            "countrycode": "ZA", 
-            "continent": "AF", 
-            "population": "49000000", 
-            "currencycode": "ZAR"
+            "currencycode": "ZAR", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "ZM", 
+            "population": "13460305", 
             "name": "Zambia", 
             "id": 242, 
-            "countrycode": "ZM", 
-            "continent": "AF", 
-            "population": "13460305", 
-            "currencycode": "ZMK"
+            "currencycode": "ZMK", 
+            "continent": "AF"
         }, 
         {
+            "countrycode": "ZW", 
+            "population": "11651858", 
             "name": "Zimbabwe", 
             "id": 243, 
-            "countrycode": "ZW", 
-            "continent": "AF", 
-            "population": "11651858", 
-            "currencycode": "ZWL"
+            "currencycode": "ZWL", 
+            "continent": "AF"
         }
     ]
 }

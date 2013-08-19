@@ -75,7 +75,7 @@ for it in list_cities:
         reg = False
         index_regions += 1
         registed_regions.append(code)
-        if it[10] in ['00','']:  #if coderegion is 00
+        if it[10] in ['00']:  #if coderegion is 00
 
             list_regions_final.append(dict({"name":"Not Regions", 'id':index_regions,'id_country':index_countries}))
 
@@ -88,7 +88,7 @@ for it in list_cities:
                     reg = True
                     break
             if not reg:
-                print('no se registro' + str(index_cities))
+                print(' city with id [ ' + str(index_cities)+ ' ] not register but not find region')
 
 
 
@@ -104,26 +104,19 @@ for it in list_cities:
     list_cities_final.append(dict(zip(tlkey,tlvalue)))
 
 
+json_dir = os.path.dirname(os.path.abspath(__file__))+'/JSON'
+
 cities  =   {'cities':list_cities_final}  
 regions =   {'regions':list_regions_final}
 countries = {'countries':list_countries_final}
 
 
-def to_json(list):
-    return json.dumps(list,sort_keys=True,indent=4, separators=(',', ': ')) 
 
-
-#json_cities = to_json(cities)
-#json_regions = to_json(regions)
-#json_countries =to_json(countries)
-
-
-#print(json_cities)
-#print(json_regions)
-#print(json_countries)
 
 def to_json_file(data, output):
-    with open(output+'.json', 'w') as file:
+    if not os.path.isdir(json_dir):
+        os.makedirs(json_dir)
+    with open(os.path.join(json_dir,output)+'.json', 'w') as file:
         file.write(json.dumps(data, file, indent=4))
 
 to_json_file(cities, 'cities')
