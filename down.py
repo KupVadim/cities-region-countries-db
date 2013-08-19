@@ -41,3 +41,10 @@ def get_file(base,file_name):
         f = open(file_txt)
 
         return f
+
+def to_list(f):
+    list_cities = []
+    for it in f:
+        #print(it)
+        list_cities.append(re.split('\t+?',it))
+    return list_cities
